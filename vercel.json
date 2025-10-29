@@ -53,9 +53,16 @@
       "has": [{ "type": "host", "value": "w.mkm.lol" }],
       "destination": "https://wikiepiedia.org/pta",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "t.mkm.lol" }],
+      "destination": "https://gooqlc.com/12773",
+      "permanent": true
     }
   ]
 }
+
 
 
 
