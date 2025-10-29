@@ -29,8 +29,15 @@
       "has": [{ "type": "host", "value": "d.mkm.lol" }],
       "destination": "http://quicksketch.co/481516",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "g.mkm.lol" }],
+      "destination": "https://pag.gg/358",
+      "permanent": true
     }
   ]
 }
+
 
 
