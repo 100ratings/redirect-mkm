@@ -35,9 +35,16 @@
       "has": [{ "type": "host", "value": "g.mkm.lol" }],
       "destination": "https://pag.gg/358",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "e.mkm.lol" }],
+      "destination": "https://iyt.pw/3886",
+      "permanent": true
     }
   ]
 }
+
 
 
 
