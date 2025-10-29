@@ -44,12 +44,13 @@
     },
     {
       "source": "/",
-      "has": [{ "type": "host", "value": "e.mkm.lol" }],
+      "has": [{ "type": "host", "value": "p.mkm.lol" }],
       "destination": "https://paint.land/Draw/481516",
       "permanent": true
     }
   ]
 }
+
 
 
 
