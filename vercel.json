@@ -41,9 +41,16 @@
       "has": [{ "type": "host", "value": "e.mkm.lol" }],
       "destination": "https://iyt.pw/3886",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "e.mkm.lol" }],
+      "destination": "https://paint.land/Draw/481516",
+      "permanent": true
     }
   ]
 }
+
 
 
 
