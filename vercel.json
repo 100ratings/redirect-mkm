@@ -2,7 +2,20 @@
   "redirects": [
     {
       "source": "/",
+      "has": [{ "type": "host", "value": "mkm.lol" }],
       "destination": "https://gooqlc.com/3886",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "m.mkm.lol" }],
+      "destination": "https://tinyhost.pw/list/s32vz5JVg/CM6U6Lx9eDQ1",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "f.mkm.lol" }],
+      "destination": "https://tinyhost.pw/list/JbEOC9haJ/CM6U6Lx9eDQ1",
       "permanent": true
     }
   ]
