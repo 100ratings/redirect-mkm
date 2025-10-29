@@ -18,12 +18,19 @@
       "destination": "https://tinyhost.pw/list/JbEOC9haJ/CM6U6Lx9eDQ1",
       "permanent": true
     },
-        {
+    {
       "source": "/",
       "has": [{ "type": "host", "value": "x.mkm.lol" }],
       "destination": "https://googleimagem.com",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "d.mkm.lol" }],
+      "destination": "http://quicksketch.co/481516",
+      "permanent": true
     }
   ]
 }
+
 
