@@ -59,14 +59,18 @@
       "has": [{ "type": "host", "value": "t.mkm.lol" }],
       "destination": "https://gooqlc.com/12773",
       "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [{ "type": "host", "value": "b.mkm.lol" }],
+      "destination": "https://gooqlc.com/186",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [{ "type": "host", "value": "n.mkm.lol" }],
+      "destination": "https://gooqlc.com/3886",
+      "permanent": true
     }
   ]
 }
-
-
-
-
-
-
-
-
