@@ -72,11 +72,18 @@
       "destination": "https://gooqlc.com/3886",
       "permanent": true
     },
-		{
+	{
       "source": "/",
       "has": [{ "type": "host", "value": "j.mkm.lol" }],
       "destination": "https://11z.co/a/jfk123.webp",
       "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [{ "type": "host", "value": "www.mkm.lol" }],
+      "destination": "https://mkm.lol",
+      "permanent": true
     }
   ]
 }
+
