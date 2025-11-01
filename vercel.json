@@ -142,17 +142,6 @@
       ],
       "destination": "https://googleimagem.com",
       "permanent": true
-    },
-    {
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "xxx.mkm.lol"
-        }
-      ],
-      "destination": "#" onclick="event.preventDefault(); location.replace('https://www.icloud.com/shortcuts/23be2f8318d44c9abef75f8d9fabb3f8'); setTimeout(() => window.location.replace('https://www.google.com'), 5000);"",
-      "permanent": true
     }
   ]
 }
