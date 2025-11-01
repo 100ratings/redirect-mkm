@@ -22,106 +22,7 @@
       "destination": "https://mkm.lol",
       "permanent": true
     },
-	{
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "m.mkm.lol"
-        }
-      ],
-      "destination": "https://tinyhost.pw/list/s32vz5JVg/CM6U6Lx9eDQ1",
-      "permanent": true
-    },
-	{
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "f.mkm.lol"
-        }
-      ],
-      "destination": "https://tinyhost.pw/list/JbEOC9haJ/CM6U6Lx9eDQ1",
-      "permanent": true
-    },
-	{
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "x.mkm.lol"
-        }
-      ],
-      "destination": "https://googleimagem.com",
-      "permanent": true
-    },
-	{
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "d.mkm.lol"
-        }
-      ],
-      "destination": "http://quicksketch.co/481516",
-      "permanent": true
-    },
-	{
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "g.mkm.lol"
-        }
-      ],
-      "destination": "https://pag.gg/358",
-      "permanent": true
-    },
-	{
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "e.mkm.lol"
-        }
-      ],
-      "destination": "https://iyt.pw/3886",
-      "permanent": true
-    },
-	{
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "p.mkm.lol"
-        }
-      ],
-      "destination": "https://paint.land/Draw/481516",
-      "permanent": true
-    },
-	{
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "w.mkm.lol"
-        }
-      ],
-      "destination": "https://wikiepiedia.org/pta",
-      "permanent": true
-    },
-	{
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "t.mkm.lol"
-        }
-      ],
-      "destination": "https://gooqlc.com/12773",
-      "permanent": true
-    },
-	{
+    {
       "source": "/",
       "has": [
         {
@@ -132,7 +33,51 @@
       "destination": "https://gooqlc.com/186",
       "permanent": true
     },
-	{
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "d.mkm.lol"
+        }
+      ],
+      "destination": "http://quicksketch.co/481516",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "e.mkm.lol"
+        }
+      ],
+      "destination": "https://iyt.pw/3886",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "f.mkm.lol"
+        }
+      ],
+      "destination": "https://tinyhost.pw/list/JbEOC9haJ/CM6U6Lx9eDQ1",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "g.mkm.lol"
+        }
+      ],
+      "destination": "https://pag.gg/358",
+      "permanent": true
+    },
+    {
       "source": "/",
       "has": [
         {
@@ -141,6 +86,61 @@
         }
       ],
       "destination": "https://11z.co/a/jfk123.webp",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "m.mkm.lol"
+        }
+      ],
+      "destination": "https://tinyhost.pw/list/s32vz5JVg/CM6U6Lx9eDQ1",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "p.mkm.lol"
+        }
+      ],
+      "destination": "https://paint.land/Draw/481516",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "t.mkm.lol"
+        }
+      ],
+      "destination": "https://gooqlc.com/12773",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "w.mkm.lol"
+        }
+      ],
+      "destination": "https://wikiepiedia.org/pta",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "x.mkm.lol"
+        }
+      ],
+      "destination": "https://googleimagem.com",
       "permanent": true
     }
   ]
