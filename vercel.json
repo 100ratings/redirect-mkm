@@ -143,18 +143,29 @@
       "destination": "https://googleimagem.com/1988",
       "permanent": true
     },
-	    {
+    {
       "source": "/",
       "has": [
         {
           "type": "host",
-          "value": "r.mkm.lol"
+          "value": "n.mkm.lol"
         }
       ],
-      "destination": "https://remind.show/70",
+      "destination": "https://503service.pw",
       "permanent": true
     },
-	    {
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "y.mkm.lol"
+        }
+      ],
+      "destination": "https://youtu.be/VFbYadm_mrw?t=64",
+      "permanent": true
+    },
+    {
       "source": "/",
       "has": [
         {
@@ -163,6 +174,28 @@
         }
       ],
       "destination": "https://dvxms.de/api/inputrrr/user/inputrrr.php?user_id=59431&skin=1",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "r.mkm.lol"
+        }
+      ],
+      "destination": "https://remind.show/82",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "s.mkm.lol"
+        }
+      ],
+      "destination": "https://mlkn.cc",
       "permanent": true
     }
   ]
