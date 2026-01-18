@@ -8,7 +8,7 @@
           "value": "mkm.lol"
         }
       ],
-      "destination": "https://gooqlc.com/3886",
+      "destination": "https://gooqlc.com/dmax",
       "permanent": true
     },
     {
@@ -20,17 +20,6 @@
         }
       ],
       "destination": "https://mkm.lol",
-      "permanent": true
-    },
-    {
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "b.mkm.lol"
-        }
-      ],
-      "destination": "https://gooqlc.com/186",
       "permanent": true
     },
     {
@@ -85,7 +74,7 @@
           "value": "j.mkm.lol"
         }
       ],
-      "destination": "https://11z.co/a/jfk123.webp",
+      "destination": "https://11z.co/dmax/jfk.png",
       "permanent": true
     },
     {
@@ -108,17 +97,6 @@
         }
       ],
       "destination": "https://paint.land/Draw/481516",
-      "permanent": true
-    },
-    {
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "t.mkm.lol"
-        }
-      ],
-      "destination": "https://ġoogle.com/12773",
       "permanent": true
     },
     {
@@ -163,17 +141,6 @@
         }
       ],
       "destination": "https://youtu.be/VFbYadm_mrw?t=64",
-      "permanent": true
-    },
-    {
-      "source": "/",
-      "has": [
-        {
-          "type": "host",
-          "value": "i.mkm.lol"
-        }
-      ],
-      "destination": "https://dvxms.de/api/inputrrr/user/inputrrr.php?user_id=59431&skin=1",
       "permanent": true
     },
 	{
