@@ -118,7 +118,7 @@
           "value": "p.mkm.lol"
         }
       ],
-      "destination": "https://paint.land/Draw/481516",
+      "destination": "https://11z.co/pato.png",
       "permanent": true
     },
     {
@@ -173,7 +173,20 @@
           "value": "r.mkm.lol"
         }
       ],
-      "destination": "https://remind.show/82",
+      "destination": "
+      "destination": "https://11z.co/dmax/rollingstone.png",
+      "permanent": true
+    },
+	{
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "t.mkm.lol"
+        }
+      ],
+      "destination": "
+      "destination": "https://11z.co/dmax/tamariz.png",
       "permanent": true
     },
 	{
